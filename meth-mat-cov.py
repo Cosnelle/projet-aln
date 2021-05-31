@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
 import math
 import scipy.linalg as nla
 import matplotlib.pyplot as plt
@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # Affichage plus agréable
 np.set_printoptions(linewidth=240)
 
-#A=np.array([[11.,32.,3.],[24.,5.,56.],[27.,8.,9.],[10.,11.,12.]])
+#A=np.array([[11.,32.,3.],[24.,5.,56.],[27.,8.,9.],[10.,11.,12.],[1,2,4]])
 A = np.array ([
     [3, 97.8, 119, 2.6, 7.4, 0.2, 1.8, 2.2, 53, 34, 28.3, 21],
     [0.2, 80.5, 121, 2.1, 5.3, 0.5, 1.4, 1.4, 47.4, 20.5, 27.8, 19.9],
@@ -31,8 +31,7 @@ lignes = ['BE', 'DE', 'EE', 'IE', 'EL', 'ES', 'FR', 'IT', 'CY', 'LU', 'MT', 'NL'
 
 m,n = A.shape
 
-
-
+#Q1
 def centrer(A):
   m,n = A.shape
   for j in range (0,n):
@@ -45,11 +44,11 @@ def centrer(A):
 centrer(A)
 
 
-def reduit(A):
+def adimensionner(A):
     m,n = A.shape
     for j in range (0,n):
-        x = A[:,j]
-        E = np.std(x)
+        x = A[:,j] 
+        E = np.std(x)   
         for i in range (0,m):
             A[i][j] = A[i][j]/E
     return A
@@ -57,17 +56,29 @@ def reduit(A):
 reduit(A)
 
 
-#Q4
-U, val_sing, Vt = nla.svd(A)
-Sigma = np.diag(val_sing)
+#Q3
+C = 1/(n-1)*np.dot(np.transpose(A),A)
 
 
-#Q5
-v1 = Vt[0,:]
-v2 = Vt[1,:]
+#4
+val_propre, Q = nla.eigh(C) 
+T = np.diag(val_propre)         
 
-P=np.dot(A, np.transpose(np.array([v1, v2])))
+#verification
+#C = np.dot(Q,np.dot(T,np.transpose(Q)))  
 
+
+#5
+qi = Q[:,n-1]
+qj = Q[:,n-2]
+
+
+#6
+P=np.dot(A, np.transpose(np.array([qi, qj])))
+
+
+#7
+m = A.shape[0]
 plt.scatter (P[:,0], P[:,1])
 for i in range (0,m) :
     plt.annotate (lignes[i], P[i,:])
