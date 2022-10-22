@@ -37,11 +37,11 @@ CRISTAL
 Av. Henri Poincaré - Cité Scientifique
 59650 Villeneuve d’Ascq
 
-| Tables        | Are           | Cool  |
+|  POLYTECH LILLE       | CRISTAL           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|  Av. Paul Langevin - Cité Scientifique       |  Av. Henri Poincaré - Cité Scientifique right-aligned | $1600 |
+|  59650 Villeneuve d’Ascq       | 59650 Villeneuve d’Ascq      |   $12 |
+|  (33) 03 28 76 73 60   | are neat      |    $1 |
 
 &nbsp;
 
