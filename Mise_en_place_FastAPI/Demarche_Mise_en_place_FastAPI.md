@@ -54,10 +54,10 @@ Installer  python
 Un exemple de fichier  **‘’main.py ‘’** contenant le code pour importer FastAPI et créer une route pour  obtenir nos données au format .json  depuis notre serveur API sera joint à ce document.  
 
 3.	Se placer ensuite dans le répertoire de travail et lancer la commande suivante pour lancer le serveur FastAPI en local :  
-**uvicorn main:app --reload** 
+**uvicorn main:app --reload**      
        On peut avoir une erreur de reconnaissance de la commande uvicorn par le terminal si on                  effectue l’installation sur windows, dans ce cas utiliser la commande :  
               **python -m uvicorn main:app --reload**  
-        ou travailler dans un environnement de travail python :      
+        ou travailler dans un environnement de travail python :         
               **python -m venv venv** : permet de créer un environnement de travail virtuel nommé venv   
               **venv\Scripts\activate** : permet d’activer l’environnement de travail virtuel   
               **deactivate** :  permet de désactiver l’environnement de travail   
