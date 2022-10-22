@@ -8,14 +8,14 @@
 
 
 Elèves : Cosnelle DJOUMEKOUM & Julie RIDOLFI
-Diplôme d’ingénieur “Informatique et Statistique” - 5ème année
+*Diplôme d’ingénieur “Informatique et Statistique” - 5ème année*
 
 
 Tuteur école : Frédéric HOOGSTOEL
-Enseignant universitaire à Polytech’Lille
+*Enseignant universitaire à Polytech’Lille*
 
 Tuteur entreprise : Damien MARCHAL
-Ingénieur de recherche CNRS
+*Ingénieur de recherche CNRS*
 
 
 
