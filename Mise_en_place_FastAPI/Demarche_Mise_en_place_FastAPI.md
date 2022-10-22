@@ -1,5 +1,5 @@
-> ## Année universitaire 2022-2023
-## Projet ingénieur 
+>  >   >   >    > ## Année universitaire 2022-2023
+> ## Projet ingénieur 
 
 ## Démarche 
 ## Mise en place FastAPI
@@ -33,13 +33,9 @@ CRISTAL
 Av. Henri Poincaré - Cité Scientifique
 59650 Villeneuve d’Ascq
 
- 
 &nbsp;
 
 &nbsp;
-
-&nbsp;
-
 
 **FastAPI** est un framework web haute performance, open source, permettant de créer des APIs avec    
 Python à partir de la version 3.6          
