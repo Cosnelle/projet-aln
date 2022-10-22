@@ -1,8 +1,8 @@
 Année universitaire 2022-2023
 Projet ingénieur
 
-                                # Démarche 
-                          # Mise en place FastAPI
+# Démarche 
+# Mise en place FastAPI
 
 
 
@@ -64,7 +64,7 @@ uvicorn main:app --reload
         l’environnement de travail permet également d’éviter de télécharger les modules nécessaires   
         pour un projet directement sur son PC
 
-        Le lien du serveur local sur lequel l’API est lancer est ensuite fourni : http://127.0.0.1:8000
+Le lien du serveur local sur lequel l’API est lancer est ensuite fourni : http://127.0.0.1:8000
 
 
 A savoir :
