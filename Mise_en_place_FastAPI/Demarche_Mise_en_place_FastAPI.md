@@ -27,6 +27,7 @@ Tuteur entreprise : Damien MARCHAL
 
 
 | POLYTECH LILLE                          |   CRISTAL                                 |
+| -------------                           |      -------------                        |
 | Av. Paul Langevin - Cité Scientifique   |  Av. Henri Poincaré - Cité Scientifique   |
 | 59650 Villeneuve d’Ascq                 |  59650 Villeneuve d’Ascq                  |
 | (33) 03 28 76 73 60                     |                                           |
@@ -38,6 +39,7 @@ Av. Henri Poincaré - Cité Scientifique
 59650 Villeneuve d’Ascq
 
 |  POLYTECH LILLE       | CRISTAL           |
+|                       |
 |  Av. Paul Langevin - Cité Scientifique       |  Av. Henri Poincaré - Cité Scientifique right-aligned | 
 |  59650 Villeneuve d’Ascq       | 59650 Villeneuve d’Ascq      |   
 |  (33) 03 28 76 73 60   | are neat      |  
