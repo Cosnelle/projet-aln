@@ -7,15 +7,15 @@
 
 
 
-Elèves : Cosnelle DJOUMEKOUM & Julie RIDOLFI
-*Diplôme d’ingénieur “Informatique et Statistique” - 5ème année*
+Elèves : Cosnelle DJOUMEKOUM & Julie RIDOLFI   
+*Diplôme d’ingénieur “Informatique et Statistique” - 5ème année*   
 
 
-Tuteur école : Frédéric HOOGSTOEL
-*Enseignant universitaire à Polytech’Lille*
+Tuteur école : Frédéric HOOGSTOEL     
+*Enseignant universitaire à Polytech’Lille*   
 
-Tuteur entreprise : Damien MARCHAL
-*Ingénieur de recherche CNRS*
+Tuteur entreprise : Damien MARCHAL     
+*Ingénieur de recherche CNRS*   
 
 
 
@@ -38,19 +38,19 @@ Av. Henri Poincaré - Cité Scientifique
 
 
 
-FastAPI est un framework web haute performance, open source, permettant de créer des APIs avec Python à partir de la version 3.6
+**FastAPI** est un framework web haute performance, open source, permettant de créer des APIs avec   Python à partir de la version 3.6       
 
-Prérequis :
-Installer  python 
+**Prérequis :**          
+Installer  python          
 
-Démarche mise en place :
-1.	Se placer dans un terminal et exécuter les commande suivantes :
+**Démarche mise en place :**         
+1.	Se placer dans un terminal et exécuter les commande suivantes :    
 
-	pip install fastapi : permet d’installer FastAPI
-	pip install uvicorn : permet le lancer le serveur API en local
+	**pip install fastapi** : permet d’installer FastAPI   
+	**pip install uvicorn** : permet le lancer le serveur API en local   
 
-2.	Créer ensuite son répertoire de travail et y ajouter un fichier .py dans le lequel le code python sera écrit
-Un exemple de fichier  ‘’main.py ‘’ contenant le code pour importer FastAPI et créer une route pour obtenir nos données au format .json  depuis notre serveur API sera joint à ce document.
+2.	Créer ensuite son répertoire de travail et y ajouter un fichier .py dans le lequel le code python sera écrit  
+Un exemple de fichier  **‘’main.py ‘’** contenant le code pour importer FastAPI et créer une route pour  obtenir nos données au format .json  depuis notre serveur API sera joint à ce document.
 
 3.	Se placer ensuite dans le répertoire de travail et lancer la commande suivante pour lancer le serveur FastAPI en local :
 uvicorn main:app --reload 
