@@ -47,8 +47,8 @@ Installer  python
 **Démarche mise en place :**         
 1.	Se placer dans un terminal et exécuter les commande suivantes :    
 
-  - **pip install fastapi** : permet d’installer FastAPI   
-  - **pip install uvicorn** : permet le lancer le serveur API en local   
+    - **pip install fastapi** : permet d’installer FastAPI   
+    - **pip install uvicorn** : permet le lancer le serveur API en local   
 
 2.	Créer ensuite son répertoire de travail et y ajouter un fichier .py dans le lequel le code python sera écrit  
 Un exemple de fichier  **‘’main.py ‘’** contenant le code pour importer FastAPI et créer une route pour  obtenir nos données au format .json  depuis notre serveur API sera joint à ce document.  
