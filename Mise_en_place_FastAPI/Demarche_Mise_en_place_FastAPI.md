@@ -22,13 +22,13 @@
 
 
 
-<div align="center">## Année universitaire 2022-2023 </div>
+<div align="center"># Année universitaire 2022-2023 </div>
 
-<div align="center">## <span style="color: #3D85C6">Projet ingénieur </span> </div>
+<div align="center"><span style="color: #3D85C6">Projet ingénieur </span> </div>
 &nbsp;
 
 
-<div align="center"> ## Démarche  </div>
+<div align="center">## Démarche  </div>
 
 <div align="center"> ## Mise en place FastAPI </div>
 
