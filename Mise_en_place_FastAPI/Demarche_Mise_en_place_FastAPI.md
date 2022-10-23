@@ -1,6 +1,4 @@
 
-<img src="https://www.geipi-polytech.org/sites/default/files/styles/logos_page/public/logos/logo%20polytech%20lille.jpg?itok=ukjtAzhs" width="200" height="120" />   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; <img src="https://atlas-sport.univ-lille.fr/atlas/photos/UL-WEB-2014.jpg" width="200" height="100" />
-
 <div align="left"><img src="https://www.geipi-polytech.org/sites/default/files/styles/logos_page/public/logos/logo%20polytech%20lille.jpg?itok=ukjtAzhs" width="200" height="120" /></div> <div align="right"><img src="https://atlas-sport.univ-lille.fr/atlas/photos/UL-WEB-2014.jpg" width="200" height="100" /></div>
 
 
