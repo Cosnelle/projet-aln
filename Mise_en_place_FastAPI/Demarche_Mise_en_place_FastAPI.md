@@ -8,7 +8,7 @@
 
 &nbsp; 
 
-<div align="center"><h2>Année universitaire 2022-2023</h2> </div>
+<div align="center"><h1>Année universitaire 2022-2023</h1> </div>
 <div align="center"><h2><span style="color: #3D85C6">Projet ingénieur </span> </h2></div>
 
 &nbsp;
