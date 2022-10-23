@@ -9,12 +9,12 @@
 &nbsp; 
 
 <div align="center"><h1>Année universitaire 2022-2023</h1> </div>
-<div align="center"><h2><span style="color: #3D85C6">Projet ingénieur </span> </h2></div>
+<div align="center"><h1><span style="color: #3D85C6">Projet ingénieur </span> </h1></div>
 
 &nbsp;
 
-<div align="center"><h2>Démarche </h2> </div>
-<div align="center"> <h2>Mise en place FastAPI</h2> </div>
+<div align="center"><h1>Démarche </h1> </div>
+<div align="center"> <h1>Mise en place FastAPI</h1> </div>
 
 
 
