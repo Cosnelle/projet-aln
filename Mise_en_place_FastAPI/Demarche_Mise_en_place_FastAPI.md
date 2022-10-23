@@ -3,35 +3,18 @@
 
 <div align="left"><img src="https://www.geipi-polytech.org/sites/default/files/styles/logos_page/public/logos/logo%20polytech%20lille.jpg?itok=ukjtAzhs" width="200" height="120" /></div> <div align="right"><img src="https://atlas-sport.univ-lille.fr/atlas/photos/UL-WEB-2014.jpg" width="200" height="100" /></div>
 
-<div align="left"><img src="https://www.geipi-polytech.org/sites/default/files/styles/logos_page/public/logos/logo%20polytech%20lille.jpg?itok=ukjtAzhs" width="200" height="120" /></div>
 
 &nbsp; 
 
 &nbsp; 
 
->  >   > >  >   > >  >   >  ## Année universitaire 2022-2023
-
-> >  >   >   >    > >  >   > >  >   >  ## <span style="color: #3D85C6">Projet ingénieur </span>
+<div align="center"><h2>Année universitaire 2022-2023</h2> </div>
+<div align="center"><h2><span style="color: #3D85C6">Projet ingénieur </span> </h2></div>
 
 &nbsp;
 
->  >   >   >    >  >   >    > >  >   > >   > ## Démarche 
-<
->  >   >    >   >    > >   > >   > >  ## Mise en place FastAPI
-
-<h1>Titre</h1>
-
-
-
-<div align="center"><h1>Année universitaire 2022-2023</h1> </div>
-
-<div align="center"><h1><span style="color: #3D85C6">Projet ingénieur </span> </h1></div>
-&nbsp;
-
-
-<div align="center"><h1>Démarche </h1> </div>
-
-<div align="center"> <h1>Mise en place FastAPI</h1> </div>
+<div align="center"><h2>Démarche </h2> </div>
+<div align="center"> <h2>Mise en place FastAPI</h2> </div>
 
 
 
