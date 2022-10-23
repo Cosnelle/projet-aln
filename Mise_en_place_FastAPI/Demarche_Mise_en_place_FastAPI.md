@@ -17,6 +17,7 @@
 <div align="center"> <h1>Mise en place FastAPI</h1> </div>
 
 <span style="color:blue">Projet ingénieur </span>
+$$\textcolor{yellow}{\text{Hello World}}$$
 
 &nbsp;
 
