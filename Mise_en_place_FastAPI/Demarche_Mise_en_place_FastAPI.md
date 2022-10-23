@@ -16,7 +16,7 @@
 <div align="center"><h1>Démarche </h1> </div>
 <div align="center"> <h1>Mise en place FastAPI</h1> </div>
 
-<span style="color: #3D85C6">Projet ingénieur </span>
+<span style="color:blue">Projet ingénieur </span>
 
 &nbsp;
 
