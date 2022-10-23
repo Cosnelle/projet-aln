@@ -68,9 +68,9 @@ Un exemple de fichier  **‘’main.py ‘’** contenant le code pour importer 
        On peut avoir une erreur de reconnaissance de la commande uvicorn par le terminal si on                  effectue l’installation sur windows, dans ce cas utiliser la commande :  
               **python -m uvicorn main:app --reload**  
         ou travailler dans un environnement de travail python :         
-              &nbsp; &nbsp; &nbsp; &nbsp; - **python -m venv venv** : permet de créer un environnement de travail virtuel nommé venv   
-              &nbsp; &nbsp; &nbsp; &nbsp; - **venv\Scripts\activate** : permet d’activer l’environnement de travail virtuel   
-              &nbsp; &nbsp; &nbsp; &nbsp; - **deactivate** :  permet de désactiver l’environnement de travail   
+              &nbsp; &nbsp; - **python -m venv venv** : permet de créer un environnement de travail virtuel nommé venv   
+              &nbsp; &nbsp; - **venv\Scripts\activate** : permet d’activer l’environnement de travail virtuel   
+              &nbsp; &nbsp; - **deactivate** :  permet de désactiver l’environnement de travail   
         l’environnement de travail permet également d’éviter de télécharger les modules nécessaires     
         pour un projet directement sur son PC   
 
