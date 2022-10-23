@@ -1,17 +1,23 @@
 
+<img src="logo.jpg" width="150" height="80" />   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;    <img src="https://atlas-sport.univ-lille.fr/atlas/photos/UL-WEB-2014.jpg" width="160" height="80" />
 
->  >   >   >    > ## Année universitaire 2022-2023
-> ## Projet ingénieur 
+&nbsp; 
 
-## Démarche 
-## Mise en place FastAPI
+>  >   > >  >   > >  >   >  ## Année universitaire 2022-2023
+> >  >   >   >    > >  >   > >  >   >  ## <span style="color: #3D85C6">Projet ingénieur </span>
 
+&nbsp;
 
+>  >   >   >    >  >   >    > >  >   > >   > ## Démarche 
 
+>  >   >    >   >    > >   > >   > >  ## Mise en place FastAPI
 
-Elèves : Cosnelle DJOUMEKOUM & Julie RIDOLFI   
-*Diplôme d’ingénieur “Informatique et Statistique” - 5ème année*   
+&nbsp;
 
+&nbsp;
+
+ Elèves : Cosnelle DJOUMEKOUM & Julie RIDOLFI   
+*Diplôme d’ingénieur “Informatique et Statistique” - 5ème année*  
 
 Tuteur école : Frédéric HOOGSTOEL     
 *Enseignant universitaire à Polytech’Lille*   
@@ -20,9 +26,7 @@ Tuteur entreprise : Damien MARCHAL
 *Ingénieur de recherche CNRS*   
 
 
-
-
-
+&nbsp;
 
 | POLYTECH LILLE                          |   CRISTAL                                 |
 | -------------                           |      -------------                        |
@@ -30,21 +34,13 @@ Tuteur entreprise : Damien MARCHAL
 | 59650 Villeneuve d’Ascq                 |  59650 Villeneuve d’Ascq                  |
 | (33) 03 28 76 73 60                     |                                           |
 | (33) 03 28 76 73 61                     |                                           |
- 
+   
+&nbsp;
 
-CRISTAL
-Av. Henri Poincaré - Cité Scientifique
-59650 Villeneuve d’Ascq
-
-|  POLYTECH LILLE       | CRISTAL           |
-|                       |
-|  Av. Paul Langevin - Cité Scientifique       |  Av. Henri Poincaré - Cité Scientifique right-aligned | 
-|  59650 Villeneuve d’Ascq       | 59650 Villeneuve d’Ascq      |   
-|  (33) 03 28 76 73 60   | are neat      |  
+----
 
 &nbsp;
 
-&nbsp;
 
 **FastAPI** est un framework web haute performance, open source, permettant de créer des APIs avec    
 Python à partir de la version 3.6          
@@ -66,9 +62,9 @@ Un exemple de fichier  **‘’main.py ‘’** contenant le code pour importer 
        On peut avoir une erreur de reconnaissance de la commande uvicorn par le terminal si on                  effectue l’installation sur windows, dans ce cas utiliser la commande :  
               **python -m uvicorn main:app --reload**  
         ou travailler dans un environnement de travail python :         
-              **python -m venv venv** : permet de créer un environnement de travail virtuel nommé venv   
-              **venv\Scripts\activate** : permet d’activer l’environnement de travail virtuel   
-              **deactivate** :  permet de désactiver l’environnement de travail   
+              &nbsp; &nbsp; &nbsp; &nbsp; - **python -m venv venv** : permet de créer un environnement de travail virtuel nommé venv   
+              &nbsp; &nbsp; &nbsp; &nbsp; - **venv\Scripts\activate** : permet d’activer l’environnement de travail virtuel   
+              &nbsp; &nbsp; &nbsp; &nbsp; - **deactivate** :  permet de désactiver l’environnement de travail   
         l’environnement de travail permet également d’éviter de télécharger les modules nécessaires     
         pour un projet directement sur son PC   
 
