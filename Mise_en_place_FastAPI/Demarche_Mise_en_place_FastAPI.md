@@ -1,10 +1,10 @@
+<table><div align="left"><img src="https://www.geipi-polytech.org/sites/default/files/styles/logos_page/public/logos/logo%20polytech%20lille.jpg?itok=ukjtAzhs" width="200" height="120" /></div> <div align="right"><img src="https://atlas-sport.univ-lille.fr/atlas/photos/UL-WEB-2014.jpg" width="200" height="100" /></div></table>
 
-<div align="left"><img src="https://www.geipi-polytech.org/sites/default/files/styles/logos_page/public/logos/logo%20polytech%20lille.jpg?itok=ukjtAzhs" width="200" height="120" /></div> <div align="right"><img src="https://atlas-sport.univ-lille.fr/atlas/photos/UL-WEB-2014.jpg" width="200" height="100" /></div>
 
+&nbsp; 
 
 &nbsp; 
 
-&nbsp; 
 
 <div align="center"><h1>Année universitaire 2022-2023</h1> </div>
 <div align="center"><h1>$$\textcolor{blue}{\text{Projet ingénieur}}$$ </h1></div>
